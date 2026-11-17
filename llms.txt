@@ -1,0 +1,30 @@
+# BauBau Barber
+
+> BauBau Barber: toelettatura e cura per animali, su appuntamento. Bagno, taglio e trattamenti per la pelle, con attenzione a ogni esigenza del tuo cane.
+
+Studio di toelettatura per cani, su appuntamento. Si prenota dal sito scegliendo un giorno e un orario liberi; la richiesta è confermata da chi gestisce lo studio.
+
+## Pagine
+
+- [Home](https://baubaubarber.example/): BauBau Barber: toelettatura e cura per animali, su appuntamento. Bagno, taglio e trattamenti per la pelle, con attenzione a ogni esigenza del tuo cane.
+- [Prenota un appuntamento](https://baubaubarber.example/prenota/): Calendario dei giorni e degli orari liberi e modulo di richiesta
+
+## Servizi
+
+- [Bagno e asciugatura](https://baubaubarber.example/#servizi): Shampoo adatto al tipo di pelo, risciacquo accurato e asciugatura delicata.
+- [Taglio e rifinitura](https://baubaubarber.example/#servizi): Tolettatura su misura per razza e stagione, dal taglio igienico alla rifinitura completa.
+- [Trattamenti per la pelle](https://baubaubarber.example/#servizi): Shampoo dermatologici e trattamenti per cani con pelle delicata o problemi cutanei.
+- [Unghie, orecchie, igiene](https://baubaubarber.example/#servizi): Taglio unghie, pulizia delle orecchie e cura dei piccoli dettagli che fanno stare bene.
+
+## Prezzi (esempio, da confermare)
+
+- [Taglia piccola](https://baubaubarber.example/#prezzi): fino a 10 kg, da 30 €
+- [Taglia media](https://baubaubarber.example/#prezzi): 10–25 kg, da 40 €
+- [Taglia grande](https://baubaubarber.example/#prezzi): oltre 25 kg, da 50 €
+
+## Domande frequenti
+
+- [Come prenoto un appuntamento?](https://baubaubarber.example/#faq): Dalla pagina Prenota scegli un giorno e un orario liberi e compili il modulo. Annina conferma la richiesta: l'appuntamento è fissato solo dopo la sua conferma.
+- [Perché devo compilare la scheda del mio cane?](https://baubaubarber.example/#faq): La scheda serve ad Annina per conoscere il tuo cane prima della prima visita: salute, pelle, carattere e allergie. Così può trattarlo come merita, tenendo conto di quello che serve a lui.
+- [Devo compilare la scheda a ogni visita?](https://baubaubarber.example/#faq): No, la scheda si compila una sola volta. Alle visite successive Annina ritrova le informazioni sul tuo cane, per esempio quale shampoo gli faceva bene.
+- [Quali informazioni servono per prenotare?](https://baubaubarber.example/#faq): Nome, telefono ed email, il nome del cane e, se vuoi, razza e tipo di servizio. L'email serve per confermare l'appuntamento.

@@ -1,0 +1,1 @@
+import{t as e}from"./remember.CgUntEMF.js";var t=document.querySelector(`#remember-scheda`),n=t?.closest(`main`)?.querySelector(`form`);n&&t&&e(n,{owner_name:`owner_name`,owner_phone:`owner_phone`,owner_email:`owner_email`,dog_name:`dog_name`,breed:`breed`,birth_year:`birth_year`,weight_kg:`weight_kg`,coat:`coat`},t,JSON.parse(t.dataset.i18n??`{}`));

@@ -1,0 +1,47 @@
+{
+  "id": "/annina-preview/app/",
+  "name": "BauBau Barber — Area Annina",
+  "short_name": "BauBau",
+  "description": "Agenda, richieste e schede dei cani di BauBau Barber.",
+  "lang": "it",
+  "start_url": "/annina-preview/app/",
+  "scope": "/annina-preview/app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#ffffff",
+  "background_color": "#f6fbfd",
+  "icons": [
+    {
+      "src": "/annina-preview/app/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/annina-preview/app/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/annina-preview/app/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Richieste",
+      "url": "/annina-preview/app/richieste/"
+    },
+    {
+      "name": "Nuovo appuntamento",
+      "url": "/annina-preview/app/appuntamenti/nuovo/"
+    },
+    {
+      "name": "Cerca un cane",
+      "url": "/annina-preview/app/cani/"
+    }
+  ]
+}
